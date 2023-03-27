@@ -1,0 +1,11 @@
+D:\daniela\GITHUB\ChatGPT\ChatGPT\bin\Release\net5.0\ChatGPT.deps.json
+D:\daniela\GITHUB\ChatGPT\ChatGPT\bin\Release\net5.0\ChatGPT.dll
+D:\daniela\GITHUB\ChatGPT\ChatGPT\bin\Release\net5.0\ref\ChatGPT.dll
+D:\daniela\GITHUB\ChatGPT\ChatGPT\bin\Release\net5.0\ChatGPT.pdb
+D:\daniela\GITHUB\ChatGPT\ChatGPT\obj\Release\net5.0\ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\daniela\GITHUB\ChatGPT\ChatGPT\obj\Release\net5.0\ChatGPT.AssemblyInfoInputs.cache
+D:\daniela\GITHUB\ChatGPT\ChatGPT\obj\Release\net5.0\ChatGPT.AssemblyInfo.cs
+D:\daniela\GITHUB\ChatGPT\ChatGPT\obj\Release\net5.0\ChatGPT.csproj.CoreCompileInputs.cache
+D:\daniela\GITHUB\ChatGPT\ChatGPT\obj\Release\net5.0\ChatGPT.dll
+D:\daniela\GITHUB\ChatGPT\ChatGPT\obj\Release\net5.0\ref\ChatGPT.dll
+D:\daniela\GITHUB\ChatGPT\ChatGPT\obj\Release\net5.0\ChatGPT.pdb
